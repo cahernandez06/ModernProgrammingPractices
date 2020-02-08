@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="316.0" prefWidth="725.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="322.0" layoutY="250.0" mnemonicParsing="false" text="Submit" />
+      <Label layoutX="65.0" layoutY="79.0" text="Name" />
+      <Label layoutX="268.0" layoutY="79.0" text="Address" />
+      <Label layoutX="471.0" layoutY="79.0" text="City" />
+      <Label layoutX="159.0" layoutY="158.0" text="State" />
+      <Label layoutX="361.0" layoutY="158.0" text="Zip" />
+      <TextField layoutX="65.0" layoutY="100.0" />
+      <TextField layoutX="268.0" layoutY="100.0" />
+      <TextField layoutX="471.0" layoutY="100.0" />
+      <TextField layoutX="159.0" layoutY="179.0" />
+      <TextField layoutX="363.0" layoutY="179.0" />
+   </children>
+</AnchorPane>
